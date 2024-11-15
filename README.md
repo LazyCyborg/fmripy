@@ -21,7 +21,7 @@ pip install -e .
 ## Usage
 
 ```python
-from fmri_connectivity_analysis import (
+from fmripy import (
     SearchlightAnalysis,
     ROIConnectivityAnalysis,
     SeedConnectivityAnalysis

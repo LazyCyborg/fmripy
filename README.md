@@ -13,11 +13,17 @@ This package is designed to provide fMRI connectivity analyses, with support for
 To install the `fmripy` package, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/LazyCyborg/fmripy.git`
+```bash
+git clone https://github.com/LazyCyborg/fmripy.git
+```
 2. Navigate to the project directory:
-`cd fmripy`
+```bash
+cd fmripy
+```
 3. Install the package using `pip`:
-`pip install .`
+```bash
+pip install .
+```
 
 ## Usage
 
